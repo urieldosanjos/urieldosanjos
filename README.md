@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o Uriel 👋
 
-<!--
-**urieldosanjos/urieldosanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise de Dados** em busca da primeira oportunidade na área. Estou aprendendo na prática, e todo o processo fica documentado aqui.
 
-Here are some ideas to get you started:
+## 📚 O que estou estudando agora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL e SQL Server:** consultas, JOINs, agregações e modelagem de dados
+- **Python:** do básico ao avançado, com foco em análise de dados
+- **Estatística descritiva**
+- **pandas** para manipulação e análise de dados
+
+## 🛠️ Ferramentas
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎯 Objetivo
+
+Conquistar uma vaga de estágio em Análise de Dados e, no futuro, evoluir para Ciência de Dados.
+
+## 📂 Repositórios
+
+- **sql-estudos:** exercícios e consultas organizados por tema
+- **python-estudos:** exercícios de lógica e análise com Python
+
+## 📫 Vamos conversar?
+
+- LinkedIn: [Uriel Dos Anjos Buganza](https://www.linkedin.com/in/uriel-dos-anjos-buganza-575a48237)
